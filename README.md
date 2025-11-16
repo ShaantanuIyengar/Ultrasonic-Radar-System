@@ -4,8 +4,8 @@ A real-time radar platform for object detection, using Arduino Mega, HC-SR04 & S
 
 ## Repository Contents
 
-- **Arduino_Code/** – Arduino Mega firmware (`radar_scanner.ino`)
-- **Processing_GUI/** – Processing visualisation app (`radar_gui.pde`)
+- **Arduino_Code/** – Arduino Mega firmware 
+- **Processing_GUI/** – Processing visualisation 
 - **Hardware/** – Circuit schematic, parts list, assembly photos
 
 ## Summary
