@@ -1,6 +1,6 @@
 # Arduino Ultrasonic Radar System
 
-A real-time radar platform for object detection, using Arduino Mega, HC-SR04 & SG90 with live graphical visualisation via Processing. Demonstrates embedded design, hardware-software integration, sensing, and data visualisation.
+A real-time radar platform for object detection, using Arduino Mega, HC-SR04 & SG90 with live graphical visualisation via Processing GUI. Demonstrates embedded design, hardware-software integration, sensing, and data visualisation.
 
 ## Repository Contents
 
