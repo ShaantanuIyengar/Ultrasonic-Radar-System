@@ -6,8 +6,8 @@ A real-time radar platform for object detection, using Arduino Mega, HC-SR04 & S
 
 - **RadarSystemArduinoCode/** – Arduino Mega firmware 
 - **ProcessingCode/** – Processing visualisation Code
-- **Hardware/** – Circuit schematic, parts list, assembly photos
-- **Working_Video/** - A video showcasing the final product 
+- **Hardware/** – Circuit schematic, assembly photos
+- **Working_Video/** - A video showcasing the final circuit 
 
 ## Summary
 
